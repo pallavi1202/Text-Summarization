@@ -1,4 +1,5 @@
 Ted Talk -Summarization
+Objective: The transcripts of th
 
 List of Movies:
 How I accidentally changed the way movies get made
